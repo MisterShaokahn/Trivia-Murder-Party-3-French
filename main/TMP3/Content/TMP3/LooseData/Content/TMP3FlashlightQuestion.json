@@ -1,0 +1,341 @@
+﻿{
+ "content": [
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Oasis"
+    },
+    {
+     "correct": true,
+     "text": "The Rolling Stones"
+    },
+    {
+     "correct": false,
+     "text": "The Beatles"
+    },
+    {
+     "correct": false,
+     "text": "The Jackson 5"
+    }
+   ],
+   "id": "114682",
+   "intro": "",
+   "outro": "",
+   "question": "When I’m 64, I’ll listen to which five-member British band?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Mike Myers"
+    },
+    {
+     "correct": false,
+     "text": "Cameron Diaz"
+    },
+    {
+     "correct": true,
+     "text": "Eddie Murphy"
+    },
+    {
+     "correct": false,
+     "text": "John Lithgow"
+    }
+   ],
+   "id": "114688",
+   "intro": "",
+   "outro": "",
+   "question": "Who voiced Shrek’s friend the donkey in the movie Shrek?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Contact[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Arrival[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]E.T. the Extra-Terrestrial[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Alien[/i]"
+    }
+   ],
+   "id": "114728",
+   "intro": "",
+   "outro": "",
+   "question": "Which movie’s alien prefers eating humans to Reese’s Pieces?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "The Flash"
+    },
+    {
+     "correct": false,
+     "text": "Batman"
+    },
+    {
+     "correct": true,
+     "text": "Wonder Woman"
+    },
+    {
+     "correct": false,
+     "text": "Captain America"
+    }
+   ],
+   "id": "114732",
+   "intro": "",
+   "outro": "",
+   "question": "Which superhero uses a lasso instead of a vibranium shield?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Serena Williams"
+    },
+    {
+     "correct": false,
+     "text": "Addison Rae"
+    },
+    {
+     "correct": false,
+     "text": "Billie Jean King"
+    },
+    {
+     "correct": false,
+     "text": "Ariana Grande"
+    }
+   ],
+   "id": "116147",
+   "intro": "",
+   "outro": "",
+   "question": "Which superstar said “thank u, next” to tennis in 2022?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Rambo"
+    },
+    {
+     "correct": false,
+     "text": "queen"
+    },
+    {
+     "correct": true,
+     "text": "catamaran"
+    },
+    {
+     "correct": false,
+     "text": "liability"
+    }
+   ],
+   "id": "116160",
+   "intro": "",
+   "outro": "",
+   "question": "Which word has as many syllables as Mississippi, not Rambo?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "1"
+    },
+    {
+     "correct": true,
+     "text": "2"
+    },
+    {
+     "correct": false,
+     "text": "4"
+    },
+    {
+     "correct": false,
+     "text": "6"
+    }
+   ],
+   "id": "116228",
+   "intro": "",
+   "outro": "",
+   "question": "How many tablespoons of tea equal two tablespoons of tea?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "5"
+    },
+    {
+     "correct": false,
+     "text": "6"
+    },
+    {
+     "correct": false,
+     "text": "7"
+    },
+    {
+     "correct": true,
+     "text": "8"
+    }
+   ],
+   "id": "116239",
+   "intro": "",
+   "outro": "",
+   "question": "What’s the square root of a number that is more than 7 x 7?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Sabrina Carpenter"
+    },
+    {
+     "correct": false,
+     "text": "Britney Spears"
+    },
+    {
+     "correct": true,
+     "text": "Chappell Roan"
+    },
+    {
+     "correct": false,
+     "text": "Elton John"
+    }
+   ],
+   "id": "116251",
+   "intro": "",
+   "outro": "",
+   "question": "Which “Tiny Dancer” is “Lucky” to have sung “Hot to Go”?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Tony the Tiger"
+    },
+    {
+     "correct": false,
+     "text": "Michelin Man"
+    },
+    {
+     "correct": true,
+     "text": "Clippy"
+    },
+    {
+     "correct": false,
+     "text": "Cap’n Crunch"
+    }
+   ],
+   "countrySpecific": true,
+   "id": "117379",
+   "intro": "",
+   "outro": "",
+   "question": "What famed mascot helps you be GRRRreat at Microsoft Word?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Sabrina Carpenter"
+    },
+    {
+     "correct": false,
+     "text": "Britney Spears"
+    },
+    {
+     "correct": false,
+     "text": "Chappell Roan"
+    },
+    {
+     "correct": true,
+     "text": "Elton John"
+    }
+   ],
+   "id": "117487",
+   "intro": "",
+   "outro": "",
+   "question": "Which “Tiny Dancer” is “Lucky” to have sung “Tiny Dancer”?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "the Flash"
+    },
+    {
+     "correct": false,
+     "text": "Batman"
+    },
+    {
+     "correct": false,
+     "text": "Wonder Woman"
+    },
+    {
+     "correct": true,
+     "text": "Captain America"
+    }
+   ],
+   "id": "117497",
+   "intro": "",
+   "outro": "",
+   "question": "Which superhero uses a vibranium shield instead of a lasso?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Rambo"
+    },
+    {
+     "correct": false,
+     "text": "queen"
+    },
+    {
+     "correct": false,
+     "text": "catamaran"
+    },
+    {
+     "correct": false,
+     "text": "liability"
+    }
+   ],
+   "id": "117505",
+   "intro": "",
+   "outro": "",
+   "question": "Which word has as many syllables as not Mississippi but Rambo?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Oasis"
+    },
+    {
+     "correct": false,
+     "text": "The Rolling Stones"
+    },
+    {
+     "correct": false,
+     "text": "The Beatles"
+    },
+    {
+     "correct": true,
+     "text": "The Jackson 5"
+    }
+   ],
+   "id": "117508",
+   "intro": "",
+   "outro": "",
+   "question": "When I’m 64, I’ll listen to which five-member American band?"
+  }
+ ]
+}

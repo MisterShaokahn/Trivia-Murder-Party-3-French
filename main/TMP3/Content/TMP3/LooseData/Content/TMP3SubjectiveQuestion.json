@@ -1,0 +1,168 @@
+﻿{
+ "content": [
+  {
+   "choices": [
+    {
+     "text": "someone slipping on a banana peel"
+    },
+    {
+     "text": "someone getting pied in the face"
+    }
+   ],
+   "id": "107583",
+   "outro": "",
+   "question": "What’s funnier?"
+  },
+  {
+   "choices": [
+    {
+     "text": "you always crush at karaoke"
+    },
+    {
+     "text": "you never have to pay tolls"
+    }
+   ],
+   "id": "107587",
+   "outro": "",
+   "question": "Which superpower would you rather have?"
+  },
+  {
+   "choices": [
+    {
+     "text": "[i]Cats[/i]"
+    },
+    {
+     "text": "[i]Rent[/i]"
+    }
+   ],
+   "id": "107622",
+   "outro": "",
+   "question": "Which musical would you rather sit through?"
+  },
+  {
+   "choices": [
+    {
+     "text": "yes"
+    },
+    {
+     "text": "no"
+    }
+   ],
+   "id": "107637",
+   "outro": "",
+   "question": "Is Pepsi okay?"
+  },
+  {
+   "choices": [
+    {
+     "text": "get a neck tattoo"
+    },
+    {
+     "text": "only ever travel by skateboard"
+    }
+   ],
+   "id": "107640",
+   "outro": "",
+   "question": "What would you rather do?"
+  },
+  {
+   "choices": [
+    {
+     "text": "yes"
+    },
+    {
+     "text": "no"
+    }
+   ],
+   "id": "107641",
+   "outro": "",
+   "question": "You’re seeing a show with a splash zone. Do you want to sit in it?"
+  },
+  {
+   "choices": [
+    {
+     "text": "yes, of course"
+    },
+    {
+     "text": "no, that’s weird"
+    }
+   ],
+   "id": "111184",
+   "outro": "",
+   "question": "Do you have a favorite number?"
+  },
+  {
+   "choices": [
+    {
+     "text": "decorative swords on wall"
+    },
+    {
+     "text": "no decorations on wall"
+    }
+   ],
+   "id": "111538",
+   "outro": "",
+   "question": "Bigger dating red flag?",
+   "x": true
+  },
+  {
+   "choices": [
+    {
+     "text": "left"
+    },
+    {
+     "text": "right"
+    }
+   ],
+   "id": "111677",
+   "intro": {
+    "versions": [
+     {
+      "subtitle": "Terrifying: you’re about to have a social interaction."
+     }
+    ]
+   },
+   "outro": "",
+   "question": "You’re about to run into another person. Do you instinctively move left or move right?"
+  },
+  {
+   "choices": [
+    {
+     "text": "Pumpkin Vanilla"
+    },
+    {
+     "text": "Leather & Moss"
+    }
+   ],
+   "id": "111718",
+   "outro": "",
+   "question": "Which candle would you rather burn in your home?"
+  },
+  {
+   "choices": [
+    {
+     "text": "kill"
+    },
+    {
+     "text": "release"
+    }
+   ],
+   "id": "111965",
+   "outro": "",
+   "question": "If you find a bug in your house, do you kill it or release it outside?"
+  },
+  {
+   "choices": [
+    {
+     "text": "The Great Barrier Reef"
+    },
+    {
+     "text": "The Grand Canyon"
+    }
+   ],
+   "id": "112090",
+   "outro": "",
+   "question": "If we gotta rank natural wonders, what’s more wondrous?"
+  }
+ ]
+}

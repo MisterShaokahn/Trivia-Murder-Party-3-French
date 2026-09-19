@@ -1,0 +1,3752 @@
+﻿{
+ "content": [
+  {
+  "categoryName": "Séries TV [i]Star Trek[/i]",
+  "choices": [
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Enterprise[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "[i]Voyager[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "[i]Deep Space Nine[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "[i]The Next Generation[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]The Animated Series[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Prodigy[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Picard[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Discovery[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Strange New Worlds[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Lower Decks[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Starfleet Academy[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Brave New World[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]To Boldly Go[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Resilience[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Pluribus[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Lux et Veritas[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "EASY",
+      "text": "[i]Space Babies[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "EASY",
+      "text": "[i]Those Krazy Klingons![/i]"
+    }
+  ],
+  "context": "",
+  "id": "115321",
+  "triviaType": "CONVENTIONAL"
+},
+  {
+  "categoryName": "Le dernier roman de son auteur",
+  "choices": [
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Les Hauts de Hurlevent[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]1984[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Le Portrait de Dorian Gray[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Les Frères Karamazov[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]La Cloche de détresse[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Le Vieil Homme et la Mer[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Glinda of Oz[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Billy Budd[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Jude l'Obscur[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]L'Éveil[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Jane Eyre[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Matilda[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Ne tirez pas sur l'oiseau moqueur[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]L'Attrape-cœurs[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Carrie[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Raison et Sentiments[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Frankenstein[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Le Sympathisant[/i]"
+    }
+  ],
+  "context": "",
+  "id": "115997",
+  "triviaType": "CONVENTIONAL"
+},
+  {
+  "categoryName": "Anciennes colonies françaises",
+  "choices": [
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Haïti"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Algérie"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Québec"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Côte d'Ivoire"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Tunisie"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Niger"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Madagascar"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Congo"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Vietnam"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Cambodge"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Nicaragua"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Philippines"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Inde"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Kenya"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Chypre"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Malawi"
+    }
+  ],
+  "context": "",
+  "id": "116082",
+  "triviaType": "CONVENTIONAL"
+},
+  {
+  "categoryName": "Films avec une musique de Hans Zimmer",
+  "choices": [
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Inception[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Pirates des Caraïbes[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Gladiator[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]The Holiday[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]The Dark Knight[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Dune[/i] (2021)"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Interstellar[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]12 Years a Slave[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]La Chute du faucon noir[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Le Roi Lion[/i] (2019)"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Transformers[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Avengers[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]E.T. l'extra-terrestre[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Deadpool[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Oppenheimer[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Benjamin Gates et le Trésor des Templiers[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Titanic[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Tenet[/i]"
+    }
+  ],
+  "context": "",
+  "id": "116084",
+  "triviaType": "CONVENTIONAL"
+},
+  {
+  "categoryName": "Types de cactus",
+  "choices": [
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "tonneau"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "keg"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "hérisson"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "cholla"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "saguaro"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "queue de renard"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "figuier de Barbarie"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "cardoncillo"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Bermuda"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "mangue"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "buffle"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "boa"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "hortensia"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "aconit"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "zinnia"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "cèdre"
+    }
+  ],
+  "context": "",
+  "id": "118108",
+  "triviaType": "CONVENTIONAL"
+},
+  {
+  "categoryName": "Tableaux de peintres néerlandais",
+  "choices": [
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "[i]La Jeune Fille à la perle[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "[i]La Ronde de nuit[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "[i]La Nuit étoilée[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Le Chardonneret[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Le Jardin des délices[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]L'Agneau mystique[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Broadway Boogie-Woogie[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Chasseurs dans la neige[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "EASY",
+      "text": "[i]L'Homme de Vitruve[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "EASY",
+      "text": "[i]La Naissance de Vénus[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]La Liberté guidant le peuple[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Automat[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Les Ménines[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]La Pietà[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]La Classe de danse[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Freedom of Speech[/i]"
+    }
+  ],
+  "context": "",
+  "id": "121312",
+  "triviaType": "CONVENTIONAL"
+},
+  {
+  "categoryName": "Singles classés n°1 du Top 50 en France",
+  "choices": [
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "« Je te donne » — Jean-Jacques Goldman & Michael Jones"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "« Pour que tu m'aimes encore » — Céline Dion"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "« Désenchantée » — Mylène Farmer"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "« Alors on danse » — Stromae"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "« Papaoutai » — Stromae"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "« Formidable » — Stromae"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "« Sur ma route » — Black M"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "« Tout oublier » — Angèle feat. Roméo Elvis"
+    },
+    {
+      "correct": false,
+      "difficulty": "EASY",
+      "text": "« Dernière danse » — Indila"
+    },
+    {
+      "correct": false,
+      "difficulty": "EASY",
+      "text": "« Balance ton quoi » — Angèle"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "« Je marche seul » — Jean-Jacques Goldman"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "« Là-bas » — Jean-Jacques Goldman & Sirima"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "« La Grenade » — Clara Luciani"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "« Levitating » — Dua Lipa"
+    }
+  ],
+  "context": "",
+  "id": "121316",
+  "triviaType": "UNCONVENTIONAL"
+},
+  {
+  "categoryName": "Chaînes CANAL+",
+  "choices": [
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "CANAL+"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "CANAL+ Sport"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "CANAL+ Foot"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "CANAL+ Box Office"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "CANAL+ Grand Écran"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "CANAL+ Cinéma(s)"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "CANAL+ Sport 360"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "CANAL+ Docs"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "CANAL+ Kids"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "CANAL+ Live"
+    },
+    {
+      "correct": false,
+      "difficulty": "EASY",
+      "text": "CANAL+ Séries"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "CANAL+ Humour"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "CANAL+ Pop Culture"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "CANAL+ Crime"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "CANAL+ Retro"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "CANAL+ Cuisine"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "CANAL+ Comédie"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "CANAL+ Nature"
+    }
+  ],
+  "context": "",
+  "id": "121336",
+  "triviaType": "CONVENTIONAL",
+  "x": true
+},
+  {
+  "categoryName": "Personnages de [i]Metal Gear[/i]",
+  "choices": [
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Snake"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Naked Snake"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Solid Snake"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Solidus Snake"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Old Snake"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Liquid Snake"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Venom Snake"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Rage Snake"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Weapon Snake"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Secret Snake"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Evolved Snake"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Tiger Snake"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Laser Snake"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Baby Snake"
+    }
+  ],
+  "context": "",
+  "id": "121338",
+  "triviaType": "UNCONVENTIONAL"
+},
+  {
+  "categoryName": "Oeuvres de fantasy romantique",
+  "choices": [
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "[i]Un palais d'épines et de roses[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "[i]Le Sang et la Cendre[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Le Serpent et le Descendant de la Nuit[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Le Pont des tempêtes[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Les Épreuves de la Reine Soleil[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Une ombre dans la braise[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Divines Rivalités[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Les Fiançailles obscures[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]La Huitième Couleur[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Le Nom du vent[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Eragon[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Le Sorceleur[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]La Passe-miroir[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Le Hobbit[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Gagner la guerre[/i]"
+    }
+  ],
+  "context": "",
+  "id": "121380",
+  "triviaType": "CONVENTIONAL"
+},
+  {
+  "categoryName": "Films où le football est au cœur de l'intrigue",
+  "choices": [
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "[i]Goal ! : Naissance d'un prodige[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "[i]Joue-la comme Beckham[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Looking for Eric[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Les Seigneurs[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]The Damned United[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Shaolin Soccer[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]À nous la victoire[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]La Coupe[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "EASY",
+      "text": "[i]Coach Carter[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "EASY",
+      "text": "[i]Rocky[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Invictus[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Le Stratège[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Rasta Rockett[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]La Plus Belle Victoire[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Million Dollar Baby[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Le Grand Bain[/i]"
+    }
+  ],
+  "context": "",
+  "id": "121397",
+  "triviaType": "UNCONVENTIONAL"
+},
+  {
+  "categoryName": "Séries d'AB Productions",
+  "choices": [
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "[i]Hélène et les Garçons[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "[i]Premiers Baisers[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "[i]Les Filles d'à côté[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Salut les Musclés[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Le Miel et les Abeilles[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Le Miracle de l'amour[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]La Croisière foll'amour[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Les Années fac[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]La Philo selon Philippe[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Les Garçons de la plage[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Les Copains d'abord[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Les Amours du campus[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Une fille dans le vent[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Le Lycée des amoureux[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Les Vacances entre copains[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Cœurs en folie[/i]"
+    }
+  ],
+  "context": "",
+  "id": "121404",
+  "triviaType": "UNCONVENTIONAL"
+},
+  {
+  "categoryName": "A réellement existé",
+  "choices": [
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "Marco Polo"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "Vlad l'Empaleur"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "Pocahontas"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Billy the Kid"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "d'Artagnan"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Cyrano de Bergerac"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Casanova"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Mata Hari"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Calamity Jane"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Buffalo Bill"
+    },
+    {
+      "correct": false,
+      "difficulty": "EASY",
+      "text": "Sherlock Holmes"
+    },
+    {
+      "correct": false,
+      "difficulty": "EASY",
+      "text": "Arsène Lupin"
+    },
+    {
+      "correct": false,
+      "difficulty": "EASY",
+      "text": "Zorro"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Jean Valjean"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Edmond Dantès"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Indiana Jones"
+    }
+  ],
+  "context": "",
+  "id": "121454",
+  "triviaType": "UNCONVENTIONAL"
+},
+  {
+  "categoryName": "Peut se jouer à 2",
+  "choices": [
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "échecs"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Monopoly[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Azul[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Yahtzee[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Scrabble[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Puissance 4[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "bataille navale"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]UNO[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "dames"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Jenga[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Rummikub[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Risk[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Catan[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Les Loups-Garous de Thiercelieux[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Dixit[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Time's Up![/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Blanc-manger Coco[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "mah-jong"
+    }
+  ],
+  "context": "",
+  "id": "121510",
+  "triviaType": "CONVENTIONAL"
+},
+  {
+  "categoryName": "Solanacées",
+  "choices": [
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "tomate"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "aubergine"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "pomme de terre"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "tabac"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "poivron"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "jalapeño"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "baie de goji"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "piment de Cayenne"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "paprika"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "pétunia"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "belladone"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "moutarde"
+    },
+    {
+      "correct": false,
+      "difficulty": "EASY",
+      "text": "pomme"
+    },
+    {
+      "correct": false,
+      "difficulty": "EASY",
+      "text": "fraise"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "patate douce"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "courge butternut"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "betterave"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "radis"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "céleri"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "grenade"
+    }
+  ],
+  "context": "",
+  "id": "121523",
+  "triviaType": "CONVENTIONAL"
+},
+  {
+  "categoryName": "Éléments chimiques nommés d'après des scientifiques",
+  "choices": [
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "curium"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "nobélium"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "einsteinium"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "bohrium"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "mendélévium"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "fermium"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "rutherfordium"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "lawrencium"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "gadolinium"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "copernicium"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "oganesson"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "oppenheinium"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "billnyium"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "hélium"
+    },
+    {
+      "correct": false,
+      "difficulty": "EASY",
+      "text": "calcium"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "potassium"
+    },
+    {
+      "correct": false,
+      "difficulty": "EASY",
+      "text": "frankensteinium"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "spockium"
+    },
+    {
+      "correct": false,
+      "difficulty": "EASY",
+      "text": "cuivre"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "darwinium"
+    }
+  ],
+  "context": "",
+  "id": "121528",
+  "triviaType": "CONVENTIONAL"
+},
+  {
+  "categoryName": "Livres de la série [i]La Cabane magique[/i]",
+  "choices": [
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "[i]La Vallée des dinosaures[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "[i]Le Mystérieux Chevalier[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "[i]Le Secret de la pyramide[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Le Trésor des pirates[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Le Voyage sur la Lune[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Les Chevaux de la ville fantôme[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Danger sur la banquise[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Les Dernières Heures du Titanic[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Pièges dans la jungle[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Gare aux gorilles ![/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Panique chez les pharaons[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Les Vikings de minuit[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Mystère au château hanté[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Perdus chez les samouraïs[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Au temps des mousquetaires[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Mission au royaume des Incas[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Le Secret du volcan[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Prisonniers des gladiateurs[/i]"
+    }
+  ],
+  "context": "",
+  "id": "121529",
+  "triviaType": "UNCONVENTIONAL"
+},
+  {
+  "categoryName": "Films avec des possessions démoniaques",
+  "choices": [
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "[i]L'Exorciste[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "[i]Evil Dead[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Prince des ténèbres[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "[i]Paranormal Activity[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Hérédité[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Jennifer's Body[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "[i]Insidious[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "[i]Conjuring : Les Dossiers Warren[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]L'Exorcisme d'Emily Rose[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Le Dernier Exorcisme[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Jusqu'en enfer[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Carrie[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "EASY",
+      "text": "[i]Fenêtre sur cour[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Get Out[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "EASY",
+      "text": "[i]Shining[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]The Ring[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Ça[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Scream[/i]"
+    }
+  ],
+  "context": "",
+  "id": "121532",
+  "triviaType": "CONVENTIONAL",
+  "x": true
+},
+  {
+  "categoryName": "Sauces et condiments piquants",
+  "choices": [
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "Tabasco"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "sriracha"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "harissa"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "sambal oelek"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "gochujang"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Cholula"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Valentina"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "piri-piri"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "habanero"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "sambal badjak"
+    },
+    {
+      "correct": false,
+      "difficulty": "EASY",
+      "text": "pesto"
+    },
+    {
+      "correct": false,
+      "difficulty": "EASY",
+      "text": "tzatziki"
+    },
+    {
+      "correct": false,
+      "difficulty": "EASY",
+      "text": "béarnaise"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "chimichurri"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "korma"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "zaatar"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "houmous"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "aïoli"
+    }
+  ],
+  "context": "",
+  "id": "121533",
+  "triviaType": "CONVENTIONAL"
+},
+  {
+  "categoryName": "Personnages de fiction créés au XIXe siècle",
+  "choices": [
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "Dracula"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "Sherlock Holmes"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "Alice au pays des merveilles"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Capitaine Nemo"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Dorian Gray"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Jean Valjean"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Cyrano de Bergerac"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Frankenstein"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Mowgli"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "D'Artagnan"
+    },
+    {
+      "correct": false,
+      "difficulty": "EASY",
+      "text": "Harry Potter"
+    },
+    {
+      "correct": false,
+      "difficulty": "EASY",
+      "text": "Tintin"
+    },
+    {
+      "correct": false,
+      "difficulty": "EASY",
+      "text": "Gandalf"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Arsène Lupin"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Peter Pan"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Zorro"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Winnie l'Ourson"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Hercule Poirot"
+    }
+  ],
+  "context": "",
+  "id": "121535",
+  "triviaType": "UNCONVENTIONAL"
+},
+  {
+  "categoryName": "Sorts de [i]Donjons & Dragons[/i]",
+  "choices": [
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Lumières dansantes"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Projectile magique"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Zone de vérité"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Pattes d'araignée"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Peau d'écorce"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Immobilisation de personne"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Bouclier de la foi"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Embruns prismatiques"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Fou rire de Tasha"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Main de Bigby"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Moquerie cruelle"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Métamorphose"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Photosynthèse"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Rayon ultraviolet"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Esquive onirique"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Sable de poche"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Couteau tournoyant"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Marteau de Rubin"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Désillusion"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Sens du lézard"
+    }
+  ],
+  "context": "",
+  "id": "121536",
+  "triviaType": "UNCONVENTIONAL"
+},
+  {
+   "categoryName": "Relations amoureuses de Peter Parker dans les comics",
+   "choices": [
+    {
+     "correct": true,
+     "difficulty": "EASY",
+     "text": "Mary Jane Watson"
+    },
+    {
+     "correct": true,
+     "difficulty": "EASY",
+     "text": "Gwen Stacy"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Felicia Hardy"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Liz Allan"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Betty Brant"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Charlie Cooper"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Kitty Pryde"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Debra Whitman"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Cissy Ironwood"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Lian Tang"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Raelith of the Wretched"
+    },
+    {
+     "correct": false,
+     "difficulty": "NORMAL",
+     "text": "Siggy Flicker"
+    },
+    {
+     "correct": false,
+     "difficulty": "NORMAL",
+     "text": "Nicole Napolitano"
+    },
+    {
+     "correct": false,
+     "difficulty": "NORMAL",
+     "text": "Heather Dubrow"
+    },
+    {
+     "correct": false,
+     "difficulty": "EASY",
+     "text": "Jill Zarin"
+    },
+    {
+     "correct": false,
+     "difficulty": "NORMAL",
+     "text": "Vicki Vale"
+    },
+    {
+     "correct": false,
+     "difficulty": "EASY",
+     "text": "Lana Lang"
+    },
+    {
+     "correct": false,
+     "difficulty": "EASY",
+     "text": "Meredith Marks"
+    },
+    {
+     "correct": false,
+     "difficulty": "EASY",
+     "text": "Selina Kyle"
+    },
+    {
+     "correct": false,
+     "difficulty": "NORMAL",
+     "text": "Shannon Storms Beador"
+    }
+   ],
+   "context": "",
+   "id": "121537",
+   "triviaType": "UNCONVENTIONAL"
+  },
+  {
+  "categoryName": "Romans avec un meurtre au cœur de l'intrigue",
+  "choices": [
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "[i]Ils étaient dix[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "[i]Le Chien des Baskerville[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Dans son silence[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]La Constance du jardinier[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Qui ment ?[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "[i]La Fille du train[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Là où chantent les écrevisses[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Sur ma peau[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Le Faucon maltais[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "[i]Da Vinci Code[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Le Tour d'écrou[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Orgueil et Préjugés[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Le Petit Prince[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]L'Écume des jours[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Le Vieil Homme et la Mer[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "EASY",
+      "text": "[i]Le Vent dans les saules[/i]"
+    }
+  ],
+  "context": "",
+  "id": "121538",
+  "triviaType": "CONVENTIONAL"
+},
+  {
+  "categoryName": "Contient exactement 6 voyelles",
+  "choices": [
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "communication"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "réfrigérateur"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "imagination"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "automobile"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "administration"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "archéologie"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "onomatopée"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "inoubliable"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "mathématique"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "bibliothèque"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "catastrophique"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "démocratique"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "extraordinaire"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "ordinateur"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "universitaire"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "photographie"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "météorologie"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "gastronomie"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "électricité"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "autorisation"
+    }
+  ],
+  "context": "",
+  "id": "121575",
+  "triviaType": "CONVENTIONAL"
+},
+  {
+  "categoryName": "Pièces classiques de [i]Stratego[/i]",
+  "choices": [
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Maréchal"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Général"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Bombe"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Espion"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Drapeau"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Capitaine"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Lieutenant"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Éclaireur"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Démineur"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Soldat"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Amiral"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Ravitaillement"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Officier"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Fantassin"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Chef"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Cavalerie"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Commandant en chef"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Aviateur"
+    }
+  ],
+  "context": "",
+  "id": "121576",
+  "triviaType": "UNCONVENTIONAL"
+},
+  {
+  "categoryName": "Réalisé par Steven Spielberg",
+  "choices": [
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "[i]Lincoln[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "[i]La Liste de Schindler[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "[i]E.T. l'extra-terrestre[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "[i]Les Aventuriers de l'arche perdue[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Le Pont des espions[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Le BGG : Le Bon Gros Géant[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Disclosure Day[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]1941[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Le Terminal[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]La Guerre des mondes[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Super 8[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Amadeus[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Deep Impact[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Un homme d'exception[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]American Bluff[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Ladykillers[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Kramer contre Kramer[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "EASY",
+      "text": "[i]Star Wars[/i]"
+    }
+  ],
+  "context": "",
+  "id": "121577",
+  "triviaType": "CONVENTIONAL"
+},
+  {
+  "categoryName": "Écrit par Bénabar",
+  "choices": [
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "“Le Dîner”"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "“Je suis de celles”"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "“Y a une fille qu'habite chez moi”"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "“Quatre murs et un toit”"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "“L'Effet papillon”"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "“Maritie et Gilbert Carpentier”"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "“À la campagne”"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "“Paris by Night”"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "“Les Râteaux”"
+    },
+    {
+      "correct": false,
+      "difficulty": "EASY",
+      "text": "“Je veux”"
+    },
+    {
+      "correct": false,
+      "difficulty": "EASY",
+      "text": "“La Liste”"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "“Caravane”"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "“La Lettre”"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "“Le Vent nous portera”"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "“Foule sentimentale”"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "“Jeune et con”"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "“Tomber la chemise”"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "“La Seine”"
+    }
+  ],
+  "context": "",
+  "id": "121579",
+  "triviaType": "CONVENTIONAL"
+},
+  {
+  "categoryName": "Au casting d'[i]Astérix et Obélix : Mission Cléopâtre[/i]",
+  "choices": [
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "Christian Clavier"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "Gérard Depardieu"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "Jamel Debbouze"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "Monica Bellucci"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "Alain Chabat"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Gérard Darmon"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Édouard Baer"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Isabelle Nanty"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Marina Foïs"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Jean-Paul Rouve"
+    },
+    {
+      "correct": false,
+      "difficulty": "EASY",
+      "text": "Dany Boon"
+    },
+    {
+      "correct": false,
+      "difficulty": "EASY",
+      "text": "Kad Merad"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "José Garcia"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Franck Dubosc"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Jean Dujardin"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Benoît Poelvoorde"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Alexandra Lamy"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Omar Sy"
+    }
+  ],
+  "context": "",
+  "id": "121580",
+  "triviaType": "UNCONVENTIONAL"
+},
+  {
+  "categoryName": "Targaryen",
+  "choices": [
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "Daenerys"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Aegon"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Maekar"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "Rhaegar"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Aerys"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "Viserys"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Rhaella"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Mestre Aemon"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Maegor"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Eddard"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Cersei"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Tywin"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Héphaïstos"
+    },
+    {
+      "correct": false,
+      "difficulty": "EASY",
+      "text": "Tim"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Amblin"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Euroa"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Viscera"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Atlas"
+    }
+  ],
+  "context": "",
+  "id": "121581",
+  "triviaType": "UNCONVENTIONAL"
+},
+  {
+  "categoryName": "Chansons de Fatal Bazooka",
+  "choices": [
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "“Fous ta cagoule”"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "“Mauvaise foi nocturne”"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "“J'aime trop ton boule”"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "“Trankillement”"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "“Parle à ma main”"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "“Auto-clash”"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "“Crêpes au froment”"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "“Ce matin va être une pure soirée”"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "“Ce soir sans mon sexe”"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "“Le Bwerk”"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "“Fous ta doudoune”"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "“Mauvaise haleine nocturne”"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "“J'aime trop ton survêt”"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "“Passe-moi le kebab”"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "“Ce soir je reste au chalet”"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "“Rap de la raclette”"
+    }
+  ],
+  "context": "",
+  "id": "121582",
+  "triviaType": "UNCONVENTIONAL"
+},
+  {
+  "categoryName": "A reçu le prix Nobel de la paix",
+  "choices": [
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Malala Yousafzai"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Martin Luther King Jr."
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "UNICEF"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Mère Teresa"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Nelson Mandela"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Jimmy Carter"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Barack Obama"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Al Gore"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Theodore Roosevelt"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Woodrow Wilson"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Desmond Tutu"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Union européenne"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Mahatma Gandhi"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Eleanor Roosevelt"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Princesse Diana"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Armée du Salut"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Tony Blair"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Václav Havel"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Deng Xiaoping"
+    }
+  ],
+  "context": "",
+  "id": "121583",
+  "triviaType": "CONVENTIONAL"
+},
+  {
+  "categoryName": "A chanté lors de la cérémonie d'ouverture des JO de Paris 2024",
+  "choices": [
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "Céline Dion"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "Lady Gaga"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "Aya Nakamura"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Philippe Katerine"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Juliette Armanet"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Rim'K"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Gojira"
+    },
+    {
+      "correct": false,
+      "difficulty": "EASY",
+      "text": "Stromae"
+    },
+    {
+      "correct": false,
+      "difficulty": "EASY",
+      "text": "Mylène Farmer"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Christine and the Queens"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "David Guetta"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Clara Luciani"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Vianney"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Zaz"
+    }
+  ],
+  "context": "",
+  "id": "121584",
+  "triviaType": "UNCONVENTIONAL"
+},
+  {
+  "categoryName": "Personnages de [i]Thomas et ses amis[/i]",
+  "choices": [
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "Thomas"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "Percy"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "Gordon"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "James"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Édouard"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Emily"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Toby"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Diesel"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Diesel 10"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "le Gros Contrôleur"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Alfred"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Victor Express"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Capitaine Vapeur"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "George Wagon"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Madame Locomotive"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Arthur Diesel"
+    }
+  ],
+  "context": "",
+  "id": "121585",
+  "triviaType": "CONVENTIONAL"
+},
+  {
+  "categoryName": "Intelligences artificielles fictives",
+  "choices": [
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "HAL 9000"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Skynet"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "GLaDOS"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "KITT"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "WOPR"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Agent Smith"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "JARVIS"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Brainiac"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Max Headroom"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "M3GAN"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Palantir"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "MI6"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Kirkland Aware"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Umbrella Corporation"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "L.I.S.T.E.N"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Alexa"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Moriarty"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Ozymandias"
+    }
+  ],
+  "context": "",
+  "id": "121586",
+  "triviaType": "CONVENTIONAL"
+},
+  {
+  "categoryName": "Mots de la dictée de Mérimée",
+  "choices": [
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "ambiguïté"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "cuisseaux"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "cuissots"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "amphitryon"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "guêpier"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "arrhes"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "douairière"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "marguillier"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "dysenterie"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "phtisie"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "hémorragie"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "bélître"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "ornithorynque"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "chrysanthème"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "ecchymose"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "labyrinthe"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "rhododendron"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "phosphorescence"
+    }
+  ],
+  "context": "",
+  "id": "121587",
+  "triviaType": "UNCONVENTIONAL"
+},
+  {
+  "categoryName": "Sauces de [i]Hot Ones[/i] France",
+  "choices": [
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "La Bombe"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Gentille Myrtille"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Katmandouce"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Coco Dingo"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Le Baiser du Scorpion"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Été 82"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Burning Bad"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Guadelajarache"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "La Fièvre"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Mama Lava"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Apocal X"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "Captain Lethal"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Piment d'Amour"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Inferno Bongo"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "La Claque Mexicaine"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Cramé de Marseille"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Salsa Terminator"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "Braise-moi ça"
+    }
+  ],
+  "context": "",
+  "id": "121588",
+  "triviaType": "UNCONVENTIONAL"
+},
+  {
+  "categoryName": "Sorti au cinéma en 2024",
+  "choices": [
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Vice-Versa 2[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Deadpool & Wolverine[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Wicked[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Vaiana 2[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Beetlejuice Beetlejuice[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Twisters[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Conclave[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Madame Web[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]The Substance[/i]"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "[i]Challengers[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Barbie[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Fast & Furious X[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Wonka[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Élémentaire[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Minecraft, le film[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Zootopie 2[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Sinners[/i]"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "[i]Weapons[/i]"
+    }
+  ],
+  "context": "",
+  "id": "121631",
+  "triviaType": "CONVENTIONAL"
+},
+  {
+  "categoryName": "Sports joués avec un filet séparant les adversaires",
+  "choices": [
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "volley-ball"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "tennis"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "badminton"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "pickleball"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "tennis de table"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "sepak takraw"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "squash"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "padel"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "handball"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "basket-ball"
+    },
+    {
+      "correct": false,
+      "difficulty": "EASY",
+      "text": "cricket"
+    },
+    {
+      "correct": false,
+      "difficulty": "EASY",
+      "text": "hockey sur gazon"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "pelote basque"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "pétanque"
+    }
+  ],
+  "context": "",
+  "id": "121633",
+  "triviaType": "CONVENTIONAL"
+},
+  {
+  "categoryName": "Étapes ou processus du cycle de l'eau",
+  "choices": [
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "advection"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "condensation"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "évaporation"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "infiltration"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "percolation"
+    },
+    {
+      "correct": true,
+      "difficulty": "EASY",
+      "text": "précipitations"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "ruissellement"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "transpiration"
+    },
+    {
+      "correct": false,
+      "difficulty": "EASY",
+      "text": "évolution"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "acclimatation"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "consommation"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "déviation"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "dégénérescence"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "irrigation"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "liquéfaction"
+    }
+  ],
+  "context": "",
+  "id": "121634",
+  "triviaType": "CONVENTIONAL"
+},
+  {
+  "categoryName": "Équipement recommandé par la FFRandonnée",
+  "choices": [
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "carte"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "boussole"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "protection solaire"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "polaire ou coupe-vent"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "mini-pharmacie"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "téléphone"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "batterie de rechange"
+    },
+    {
+      "correct": true,
+      "difficulty": "NORMAL",
+      "text": "chapeau"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "déodorant"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "oreiller gonflable"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "chaise de camping"
+    },
+    {
+      "correct": false,
+      "difficulty": "NORMAL",
+      "text": "bouteille de vin rouge"
+    }
+  ],
+  "context": "",
+  "id": "121638",
+  "triviaType": "UNCONVENTIONAL",
+  "x": true
+}
+ ]
+}

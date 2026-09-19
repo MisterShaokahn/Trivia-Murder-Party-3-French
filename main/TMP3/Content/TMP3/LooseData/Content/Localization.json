@@ -1,0 +1,359 @@
+{
+ "content": [
+  {
+   "filename": "Localization.json",
+   "id": "119674",
+   "priority": 0,
+   "properties": [
+    {
+     "textKey": "TUT_ARCHERY_0",
+     "value": [
+      "Les joueurs en danger choisiront un endroit sur la cible pour s'attacher."
+     ]
+    },
+    {
+     "textKey": "TUT_ARCHERY_1",
+     "value": [
+      "Les joueurs en sécurité essaieront ensuite de vous tirer dessus."
+     ]
+    },
+    {
+     "textKey": "TUT_ARCHERY_2",
+     "value": [
+      "Si une flèche vous touche, vous perdez."
+     ]
+    },
+    {
+     "textKey": "TUT_CANOES_0",
+     "value": [
+      "Les joueurs en danger choisiront un canoë dans lequel s'asseoir."
+     ]
+    },
+    {
+     "textKey": "TUT_CANOES_1",
+     "value": [
+      "Si vous choisissez tous le même canoë, personne ne meurt."
+     ]
+    },
+    {
+     "textKey": "TUT_CANOES_3",
+     "value": [
+      "Mais si ce n’est pas unanime, je punirai le côté le plus lourd."
+     ]
+    },
+    {
+     "textKey": "TUT_CHALICES_0",
+     "value": [
+      "Tout le monde choisira secrètement une coupe à empoisonner."
+     ]
+    },
+    {
+     "textKey": "TUT_CHALICES_1",
+     "value": [
+      "Ensuite, tout le monde choisira une coupe dans laquelle boire."
+     ]
+    },
+    {
+     "textKey": "TUT_CHALICES_2",
+     "value": [
+      "Si votre boisson contient du poison, vous mourez."
+     ]
+    },
+    {
+     "textKey": "TUT_CHALICES_SAFE_0",
+     "value": [
+      "Chaque joueur en sécurité empoisonnera secrètement une coupe."
+     ]
+    },
+    {
+     "textKey": "TUT_CHALICES_SAFE_1",
+     "value": [
+      "Les joueurs en danger choisiront ensuite une coupe dans laquelle boire."
+     ]
+    },
+    {
+     "textKey": "TUT_CHALICES_SAFE_2",
+     "value": [
+      "Si votre boisson contient du poison, vous mourez."
+     ]
+    },
+    {
+     "textKey": "TUT_COUNTING_0",
+     "value": [
+      "Un tas de globes oculaires va tomber du ciel."
+     ]
+    },
+    {
+     "textKey": "TUT_COUNTING_1",
+     "value": [
+      "Devinez combien en atterriront dans le récipient."
+     ]
+    },
+    {
+     "textKey": "TUT_COUNTING_2",
+     "value": [
+      "Si vous êtes le ou la plus éloigné(e), je vous punirai !"
+     ]
+    },
+    {
+     "textKey": "TUT_COUNTING_SAFE_0",
+     "value": [
+      "Un tas de globes oculaires va tomber du ciel."
+     ]
+    },
+    {
+     "textKey": "TUT_COUNTING_SAFE_1",
+     "value": [
+      "Devinez combien en atterriront dans le récipient."
+     ]
+    },
+    {
+     "textKey": "TUT_COUNTING_SAFE_2",
+     "value": [
+      "Si un joueur en sécurité devine mieux que vous, vous mourez !"
+     ]
+    },
+    {
+     "textKey": "TUT_FINGERVOTE_0",
+     "value": [
+      "Les joueurs tués voteront pour décider qui perdra un doigt."
+     ]
+    },
+    {
+     "textKey": "TUT_FINGERVOTE_1",
+     "value": [
+      null
+     ]
+    },
+    {
+     "textKey": "TUT_FLASHLIGHT_0",
+     "value": [
+      "Ce joueur perdra une réponse aléatoire à une question jusqu’à la manche finale."
+     ]
+    },
+    {
+     "textKey": "TUT_FLASHLIGHT_1",
+     "value": [
+      "Mais attention, une fois allumée, vous ne pourrez plus la déplacer."
+     ]
+    },
+    {
+     "textKey": "TUT_FLASHLIGHT_2",
+     "value": [
+      "Donc coordonnez-vous bien, sinon vous ne verrez pas des parties importantes de la question. Et ce serait dommage !"
+     ]
+    },
+    {
+     "textKey": "TUT_JUMPSCARE_0",
+     "value": [
+      "Chaque joueur pourra déclencher au moins un événement de sursaut pendant la partie."
+     ]
+    },
+    {
+     "textKey": "TUT_JUMPSCARE_1",
+     "value": [
+      "Le bouton pour les activer se trouve en haut de votre appareil."
+     ]
+    },
+    {
+     "textKey": "TUT_JUMPSCARE_2",
+     "value": [
+      "Il vous indiquera également combien vous en avez. Utilisez-les judicieusement."
+     ]
+    },
+    {
+     "textKey": "TUT_KILLERCAM_0",
+     "value": [
+      "Je vais vous encercler d'une tronçonneuse."
+     ]
+    },
+    {
+     "textKey": "TUT_KILLERCAM_1",
+     "value": [
+      "Je vous montrerai une image de l’endroit où je vais frapper."
+     ]
+    },
+    {
+     "textKey": "TUT_KILLERCAM_2",
+     "value": [
+      "Utilisez les graffitis pour déterminer où je vais frapper pour vous en éloigner."
+     ]
+    },
+    {
+     "textKey": "TUT_KILLERCAM_3",
+     "value": [
+      "Si ma tronçonneuse vous touche, vous perdez."
+     ]
+    },
+    {
+     "textKey": "TUT_MATH_0",
+     "value": [
+      "Résolvez autant d’équations mathématiques simples que possible avant la fin du temps imparti."
+     ]
+    },
+    {
+     "textKey": "TUT_MATH_1",
+     "value": [
+      "Mais attention, si vous faites une erreur, vous serez mis en pause pour un petit moment."
+     ]
+    },
+    {
+     "textKey": "TUT_MATH_2",
+     "value": [
+      "Si votre score est le plus bas, vous perdez."
+     ]
+    },
+    {
+     "textKey": "TUT_MATH_SAFE_0",
+     "value": [
+      "Résolvez autant d’équations mathématiques simples que possible avant la fin du temps imparti."
+     ]
+    },
+    {
+     "textKey": "TUT_MATH_SAFE_1",
+     "value": [
+      "Mais attention, si vous faites une erreur, vous serez mis en pause pour un petit moment."
+     ]
+    },
+    {
+     "textKey": "TUT_MATH_SAFE_2",
+     "value": [
+      "Si un joueur en sécurité obtient un meilleur score que vous, vous perdez."
+     ]
+    },
+    {
+     "textKey": "TUT_MINDMELD_0",
+     "value": [
+      "Vous recevrez une question. Essayez d’y répondre avec une réponse valide et unique."
+     ]
+    },
+    {
+     "textKey": "TUT_MINDMELD_1",
+     "value": [
+      "Si vous êtes en danger et que quelqu'un d'autre donne la même réponse que vous, vous mourez."
+     ]
+    },
+    {
+     "textKey": "TUT_PITS_0",
+     "value": [
+      "Les joueurs en danger choisiront un tas de points."
+     ]
+    },
+    {
+     "textKey": "TUT_PITS_1",
+     "value": [
+      "Vous le gardez si personne d’autre ne choisit le même tas."
+     ]
+    },
+    {
+     "textKey": "TUT_PITS_2",
+     "value": [
+      "Sinon, vous tombez dedans."
+     ]
+    },
+    {
+     "textKey": "TUT_POURING_0",
+     "value": [
+      "On vous présentera un bol d’offrande contenant une certaine quantité de sang."
+     ]
+    },
+    {
+     "textKey": "TUT_POURING_1",
+     "value": [
+      "Estimez la quantité supplémentaire de sang nécessaire pour le remplir."
+     ]
+    },
+    {
+     "textKey": "TUT_POURING_2",
+     "value": [
+      "Sur votre tasse de mesure, maintenez appuyé cette quantité manquante sur votre appareil."
+     ]
+    },
+    {
+     "textKey": "TUT_POURING_3",
+     "value": [
+      "La tasse de mesure sera ensuite vidée dans votre bol d’offrande."
+     ]
+    },
+    {
+     "textKey": "TUT_POURING_4",
+     "value": [
+      "Je vous punirai si vous le faites déborder ou si vous avez la plus petite quantité de sang."
+     ]
+    },
+    {
+     "textKey": "TUT_POURING_SAFE_1",
+     "value": [
+      "Estimez la quantité supplémentaire de sang nécessaire pour le remplir."
+     ]
+    },
+    {
+     "textKey": "TUT_POURING_SAFE_2",
+     "value": [
+      "Sur votre tasse de mesure, maintenez appuyé cette quantité manquante sur votre appareil."
+     ]
+    },
+    {
+     "textKey": "TUT_POURING_SAFE_3",
+     "value": [
+      "La tasse de mesure sera ensuite vidée dans votre bol d’offrande."
+     ]
+    },
+    {
+     "textKey": "TUT_POURING_SAFE_4",
+     "value": [
+      "Je vous punirai si vous le faites déborder ou si vous avez moins de sang qu’un joueur en sécurité."
+     ]
+    },
+    {
+     "textKey": "TUT_SUBJECTIVEQUESTION_0",
+     "value": [
+      "Je remplace les questions de culture générale par des questions basées sur l’opinion."
+     ]
+    },
+    {
+     "textKey": "TUT_SUBJECTIVEQUESTION_1",
+     "value": [
+      "Si votre réponse fait partie de la minorité du groupe, vous serez envoyé dans la salle de meurtre."
+     ]
+    },
+    {
+     "textKey": "TUT_TRUNKS_0",
+     "value": [
+      "Chaque joueur en sécurité a une forme de bombe qu’il placera secrètement sur une grille de valises."
+     ]
+    },
+    {
+     "textKey": "TUT_TRUNKS_1",
+     "value": [
+      "Chaque joueur en danger choisira une valise dans laquelle s’y cacher."
+     ]
+    },
+    {
+     "textKey": "TUT_TRUNKS_2",
+     "value": [
+      "Si votre valise se fait toucher, vous mourez."
+     ]
+    },
+    {
+     "textKey": "TUT_PASSWORDS_0",
+     "value": [
+      "Chaque joueur en danger créera un mot de passe à partir d’un vrai mot de cinq lettres."
+     ]
+    },
+    {
+     "textKey": "TUT_PASSWORDS_1",
+     "value": [
+      " Les joueurs en sécurité essaieront de pirater votre mot de passe."
+     ]
+    },
+    {
+     "textKey": "TUT_PASSWORDS_2",
+     "value": [
+      "S’ils réussissent, vous mourez."
+     ]
+    }
+   ]
+  }
+ ]
+}
